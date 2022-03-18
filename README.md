@@ -1,4 +1,4 @@
-# Repositório de Tecnologia e Informações Bíblicas com Visão Tecnologia
+# Tecnologia e Informações Bíblicas com Visão Tecnologia
 Repositório criado para o Desafio de Projeto
 * **Caminhar entre Mundos**;
 * Brincar com as **Tecnologia**;
