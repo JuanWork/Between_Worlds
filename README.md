@@ -10,4 +10,4 @@ Repositório criado para o Desafio de Projeto
 filho do Arquiteto e beber direto da fonte. 
 
 ## Link Úteis
-[Paralelismo biblico tecnologico](https://itforum.com.br/coluna/diversidade-na-escada/)
+[Paralelismo biblico tecnologico](https://www.markdownguide.org/getting-started/)
